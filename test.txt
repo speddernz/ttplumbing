@@ -1,11 +1,1 @@
-testeredede
-
-
-Hello Git
-
- 
-1
-
-ddd
-
-2
+This is second project downloaded from Git
