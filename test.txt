@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is second project downloaded from Git
 
 8:13
 
+=======
+Thet 752
+>>>>>>> fd38af5c9cf81fe8708c205f38629bd44d0d702e
